@@ -4,7 +4,7 @@
     "slug": "DoneWithIt",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/splash.png",
     "splash": {
       "image": "./assets/splash.png",
       "resizeMode": "contain",
@@ -28,6 +28,7 @@
     "web": {
       "favicon": "./assets/favicon.png"
     },
-    "description": ""
+    "description": "This is a todo list application where all of the todo items can be added and deleted. All of the data are stored in the memory and are only persisted when the application is running.",
+    "githubUrl": "https://github.com/Starcly56/DoneWithIt"
   }
 }
